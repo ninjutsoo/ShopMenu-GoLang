@@ -17,10 +17,10 @@ go properties.
 - getProductID : we use it to find the product in list of products based on id (used in http.HandleFunc).
 
 ### html files
-3 html files each one to show some data, 
-    template-card : to show each card's data.
-    template-overview : to show list of products in index page.
-    template-product : to show each product properties in product page.
+3 html files each one to show some data:
+- template-card : to show each card's data.
+- template-overview : to show list of products in index page.
+- template-product : to show each product properties in product page.
 
 ### json files 
 we basically here have all datas that we want to show on html pages, you can add and remove to the list easily.
