@@ -26,10 +26,10 @@ go properties.
 we basically here have all datas that we want to show on html pages, you can add and remove to the list easily.
 
 ### how to run
-1 - copy the file in your GOPATH directory
-2 - go to the directory useing cmd (or ide's terminal)
-3 - type: go run main.go
-4 - open your browser and type in: localhoset:4000
+1- copy the file in your GOPATH directory
+2- go to the directory useing cmd (or ide's terminal)
+3- type: go run main.go
+4- open your browser and type in: localhoset:4000
 enjoy :)
 
 also you can see images of the project in /img directory.
